@@ -1,0 +1,6 @@
+C:\Users\ozgur.gursoy\Desktop\gitDeneme2\deneme2\TelefonRehberi\TelefonRehberi\bin\TelefonRehberi.dll.config
+C:\Users\ozgur.gursoy\Desktop\gitDeneme2\deneme2\TelefonRehberi\TelefonRehberi\bin\TelefonRehberi.dll
+C:\Users\ozgur.gursoy\Desktop\gitDeneme2\deneme2\TelefonRehberi\TelefonRehberi\bin\TelefonRehberi.pdb
+C:\Users\ozgur.gursoy\Desktop\gitDeneme2\deneme2\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.csprojResolveAssemblyReference.cache
+C:\Users\ozgur.gursoy\Desktop\gitDeneme2\deneme2\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.dll
+C:\Users\ozgur.gursoy\Desktop\gitDeneme2\deneme2\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.pdb
