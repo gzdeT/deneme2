@@ -9,8 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    Merhaba arkadaşlar, kanalıma hoşgeldiniz, lütfen like atın, abone olmayı unutmayın,
-        bugün sizlerle mine craft ta canavarlarla nasıl savaşılır öğreteceğim,
+    Ben buradaki yazıyı değiştirmeye karar verdim
         
         Deneme2
     </div>
