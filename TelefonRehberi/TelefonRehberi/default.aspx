@@ -11,6 +11,8 @@
     <div>
     Merhaba arkadaşlar, kanalıma hoşgeldiniz, lütfen like atın, abone olmayı unutmayın,
         bugün sizlerle mine craft ta canavarlarla nasıl savaşılır öğreteceğim,
+        
+        Deneme2
     </div>
     </form>
 </body>
